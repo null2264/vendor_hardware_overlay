@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="config_mainBuiltInDisplayCutout">M 0,0 H -25.6 V 23.46666666666667 H 25.6 V 0 H 0 Z @dp</string>
+    <string name="config_mainBuiltInDisplayCutout">M 0,0 H -46.93333333333333 V 24 H 46.93333333333333 V 0 H 0 Z @dp</string>
+    <dimen name="status_bar_height_portrait">4.529999mm</dimen>
 </resources>
