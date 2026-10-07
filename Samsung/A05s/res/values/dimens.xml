@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="physical_power_button_center_screen_location_y">1010.0px</dimen>
-    <dimen name="status_bar_camera_top_margin">8.0px</dimen>
-    <dimen name="status_bar_height_portrait">73.0px</dimen>
-    <dimen name="status_bar_indicator_corner_padding">64.0px</dimen>
+    <dimen name="status_bar_height">73px</dimen>
+    <dimen name="status_bar_height_default">73px</dimen>
+    <dimen name="status_bar_height_portrait">73px</dimen>
+    <dimen name="status_bar_height_landscape">24dp</dimen>
+
+    <dimen name="rounded_corner_radius">26dp</dimen>
+    <dimen name="rounded_corner_radius_top">26dp</dimen>
+    <dimen name="rounded_corner_radius_bottom">26dp</dimen>
+    <dimen name="rounded_corner_content_padding">8dp</dimen>
 </resources>
