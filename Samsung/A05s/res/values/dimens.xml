@@ -5,8 +5,8 @@
     <dimen name="status_bar_height_portrait">73px</dimen>
     <dimen name="status_bar_height_landscape">24dp</dimen>
 
-    <dimen name="status_bar_padding_start">64px</dimen>
-    <dimen name="status_bar_padding_end">64px</dimen>
+    <dimen name="status_bar_padding_start">32px</dimen>
+    <dimen name="status_bar_padding_end">24px</dimen>
 
     <dimen name="rounded_corner_radius">26dp</dimen>
     <dimen name="rounded_corner_radius_top">26dp</dimen>
